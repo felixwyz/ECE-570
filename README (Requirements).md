@@ -6,4 +6,4 @@
 5. The second last step require you to put OpenAI API key, you need to make sure you have token money in your account otherwise it would cause errors. 
    Notice: the RAG function call cost less than $0.005 so you won't need to worry too much since it won't take all the money in your account.
    Sent an email to wu1824@purdue.edu if you want to borrow an OpenAI account with available tokens.
-6. You can also watch the video or download the ECE570_update pdf to see the results.
+6. You can also watch the video (you need to download the video) or download the ECE570_update.pdf to see the results.
